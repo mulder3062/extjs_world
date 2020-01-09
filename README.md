@@ -1,4 +1,7 @@
-# ExtJS 5.x 강좌 샘플
+# ExtJS 6 강좌
+https://mongodev.tistory.com/43
+
+# ExtJS 5.x 강좌
 http://mongodev.tistory.com/category/ExtJS
 
 1. 1장. ExtJS 5.1 GPL 다운로드 및 연동하기
